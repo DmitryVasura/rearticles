@@ -1,0 +1,1 @@
+enum ArticleScope { all, mine, liked, recommended }

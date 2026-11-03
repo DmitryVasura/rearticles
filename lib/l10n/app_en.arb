@@ -1,0 +1,164 @@
+{
+  "@@locale": "en",
+  "settings": "Settings",
+  "appearance": "Appearance",
+  "theme": "Theme",
+  "themeSystem": "System",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "language": "Language",
+  "languageSystem": "System default",
+  "feedback": "Feedback",
+  "hapticFeedback": "Haptic feedback",
+  "hapticFeedbackSubtitle": "Vibration on likes and long press",
+  "data": "Data",
+  "deleteAllDrafts": "Delete all drafts",
+  "deleteAllDraftsSubtitle": "Removes drafts stored on this device",
+  "deleteAllDraftsTitle": "Delete all drafts?",
+  "deleteAllDraftsMessage": "Drafts stored on this device will be deleted permanently.",
+  "draftsDeleted": "Drafts deleted",
+  "about": "About",
+  "aboutApp": "About {appName}",
+  "@aboutApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+  "retry": "Retry",
+  "undo": "Undo",
+  "error": "Error",
+  "report": "Report",
+  "dontLike": "Don't like",
+  "reportWhy": "Why are you reporting this article?",
+  "hideFailed": "Could not hide the article",
+  "reportFailed": "Could not send the report",
+  "fewerLikeThis": "We'll show fewer articles like this",
+  "reportThanks": "Thanks, we'll review this article",
+  "reasonSpam": "Spam",
+  "reasonInappropriate": "Inappropriate content",
+  "reasonMisinformation": "Misinformation",
+  "reasonPlagiarism": "Plagiarism",
+  "reasonOther": "Other",
+  "difficultyEasy": "Easy",
+  "difficultyNormal": "Normal",
+  "difficultyMedium": "Medium",
+  "difficultyHard": "Hard",
+  "difficultyAdvanced": "Advanced",
+  "createAnAccount": "Create an account",
+  "createAccount": "Create account",
+  "email": "Email",
+  "loginName": "Login",
+  "logIn": "Login",
+  "register": "Register",
+  "alreadyHaveAccount": "Already have an account?",
+  "noAccountYet": "Don't have an account?",
+  "loading": "Loading...",
+  "welcomeMessage": "Welcome to Re:Articles. Please, login or register to continue",
+  "unknownAuthor": "Unknown Author",
+  "writeArticle": "Write Article",
+  "editArticle": "Edit Article",
+  "articleTitleHint": "Article title",
+  "forYou": "For you",
+  "latest": "Latest",
+  "chooseDraftOrNew": "Choose a draft or create a new article",
+  "failedLoadDrafts": "Failed to load drafts:\n{message}",
+  "@failedLoadDrafts": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "noDraftsYet": "No drafts yet.\nCreate a new article to get started.",
+  "newArticle": "New Article",
+  "maxTagsError": "You can select up to {count} tags",
+  "@maxTagsError": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "minTagsError": "{count, plural, =1{Select at least 1 tag} other{Select at least {count} tags}}",
+  "@minTagsError": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "needTitle": "Your article needs a title",
+  "articleUpdated": "Article updated",
+  "articlePublished": "Article published",
+  "editArticleTitle": "Edit article",
+  "publishArticleTitle": "Publish article",
+  "publishIntro": "Add a few details to help readers discover your article.",
+  "difficulty": "Difficulty",
+  "difficultySubtitle": "How challenging is your article?",
+  "tags": "Tags",
+  "tagsSubtitle": "Choose topics that describe your article.",
+  "saveChanges": "Save changes",
+  "publishArticle": "Publish Article",
+  "searchTags": "Search tags...",
+  "selected": "Selected",
+  "allTags": "All tags",
+  "failedLoadTags": "Failed to load tags",
+  "noTagsFound": "No tags found",
+  "untitledArticle": "Untitled article",
+  "noContentYet": "No content yet",
+  "quickPublish": "Quick publish",
+  "editedJustNow": "Edited just now",
+  "editedMinutesAgo": "Edited {count} min ago",
+  "@editedMinutesAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editedHoursAgo": "Edited {count} h ago",
+  "@editedHoursAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editedYesterday": "Edited yesterday",
+  "editedDaysAgo": "{count, plural, =1{Edited 1 day ago} other{Edited {count} days ago}}",
+  "@editedDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editedOn": "Edited {date}",
+  "@editedOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "noArticlesYet": "No articles yet",
+  "deleteArticleTitle": "Delete article?",
+  "deleteArticleMessage": "The article will be removed for everyone. This cannot be undone.",
+  "home": "Home",
+  "profile": "Profile",
+  "articles": "Articles",
+  "likesReceived": "Likes received",
+  "username": "Username",
+  "author": "Author",
+  "account": "Account",
+  "myArticles": "My articles",
+  "likedArticles": "Liked articles",
+  "logOut": "Log Out",
+  "noPublishedYet": "You have not published any articles yet",
+  "likedWillAppear": "Articles you like will appear here"
+}
